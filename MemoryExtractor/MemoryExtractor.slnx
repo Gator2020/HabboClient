@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MemoryExtractor/MemoryExtractor.vcxproj" Id="1bb9d15a-3198-495f-82bd-eb6d28716e74" />
+</Solution>
