@@ -210,7 +210,7 @@ namespace App
                             PostMessage(Accepted.Handle, AcceptClient(Accepted), IntPtr.Zero, IntPtr.Zero);
                             Sockets.Add(Accepted);
                             Console.WriteLine(Accepted.RemoteEndPoint.ToString());
-                            PostMessage(ClientForm.ActiveWindow.MainWindowHandle, AcceptClient(Accepted), IntPtr.Zero, IntPtr.Zero);
+                           // PostMessage(ClientForm.ActiveWindow.MainWindowHandle, AcceptClient(Accepted), IntPtr.Zero, IntPtr.Zero);
                             return UIntPtr.Parse(Accepted.Handle.ToString());
                         }
 
