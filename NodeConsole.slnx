@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NodeConsole/NodeConsole.vcxproj" Id="03e5cb4a-1ac1-4816-8c8b-dc706e709b54" />
+</Solution>
